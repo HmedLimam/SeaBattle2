@@ -1,0 +1,54 @@
+# Python related
+SeaBattle2 Python Computer Vision/venv/
+SeaBattle2 Python Computer Vision/.env
+SeaBattle2 Python Computer Vision/.idea/
+SeaBattle2 Python Computer Vision/__pycache__/
+
+# Ignore Flutter/Dart/Pub related
+SeaBattle2 Flutter UI Overlay/.dart_tool/
+SeaBattle2 Flutter UI Overlay/.flutter-plugins
+SeaBattle2 Flutter UI Overlay/.flutter-plugins-dependencies
+SeaBattle2 Flutter UI Overlay/.packages
+SeaBattle2 Flutter UI Overlay/build/
+
+# Android related
+SeaBattle2 Flutter UI Overlay/android/**/gradle-wrapper.jar
+SeaBattle2 Flutter UI Overlay/android/.gradle
+SeaBattle2 Flutter UI Overlay/android/captures/
+SeaBattle2 Flutter UI Overlay/android/gradlew
+SeaBattle2 Flutter UI Overlay/android/gradlew.bat
+SeaBattle2 Flutter UI Overlay/android/local.properties
+SeaBattle2 Flutter UI Overlay/android/**/GeneratedPluginRegistrant.java
+
+# iOS/XCode related
+SeaBattle2 Flutter UI Overlay/ios/**/*.mode1v3
+SeaBattle2 Flutter UI Overlay/ios/**/*.mode2v3
+SeaBattle2 Flutter UI Overlay/ios/**/*.moved-aside
+SeaBattle2 Flutter UI Overlay/ios/**/*.pbxuser
+SeaBattle2 Flutter UI Overlay/ios/**/*.perspectivev3
+SeaBattle2 Flutter UI Overlay/ios/**/*sync/
+SeaBattle2 Flutter UI Overlay/ios/**/.sconsign.dblite
+SeaBattle2 Flutter UI Overlay/ios/**/.tags*
+SeaBattle2 Flutter UI Overlay/ios/**/.vagrant/
+SeaBattle2 Flutter UI Overlay/ios/**/DerivedData/
+SeaBattle2 Flutter UI Overlay/ios/**/Icon?
+SeaBattle2 Flutter UI Overlay/ios/**/Pods/
+SeaBattle2 Flutter UI Overlay/ios/**/.symlinks/
+SeaBattle2 Flutter UI Overlay/ios/**/profile
+SeaBattle2 Flutter UI Overlay/ios/**/xcuserdata
+SeaBattle2 Flutter UI Overlay/ios/.generated/
+SeaBattle2 Flutter UI Overlay/ios/Flutter/App.framework
+SeaBattle2 Flutter UI Overlay/ios/Flutter/Flutter.framework
+SeaBattle2 Flutter UI Overlay/ios/Flutter/Generated.xcconfig
+SeaBattle2 Flutter UI Overlay/ios/Flutter/app.flx
+SeaBattle2 Flutter UI Overlay/ios/Flutter/app.zip
+SeaBattle2 Flutter UI Overlay/ios/Flutter/flutter_assets/
+SeaBattle2 Flutter UI Overlay/ios/ServiceDefinitions.json
+SeaBattle2 Flutter UI Overlay/ios/Runner/GeneratedPluginRegistrant.*
+
+# Exceptions to above rules
+!SeaBattle2 Flutter UI Overlay/ios/**/default.mode1v3
+!SeaBattle2 Flutter UI Overlay/ios/**/default.mode2v3
+!SeaBattle2 Flutter UI Overlay/ios/**/default.pbxuser
+!SeaBattle2 Flutter UI Overlay/ios/**/default.perspectivev3
+!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
