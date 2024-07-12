@@ -30,5 +30,9 @@ Sea Battle 2 is a mobile game where you and the enemy each have a 10x10 matrix t
 4. Gather more data than just the cell counts and implement machine learning to automate gameplay (create a bot).
 5. Explore reinforcement learning techniques.
 
+## Screenshots
+<img src="https://github.com/HmedLimam/SeaBattle2/blob/master/Readme%20images/game.jpg" width="50%">
+<img src="https://github.com/HmedLimam/SeaBattle2/blob/master/Readme%20images/heatmap.jpg" width="50%">
+
 ## Contributing
 Contributions are welcome! Improve UI, enhance analysis algorithms, or suggest new features by submitting a pull request.
